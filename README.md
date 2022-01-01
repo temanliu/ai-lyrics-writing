@@ -1,6 +1,8 @@
 ![](./img/screenshot.jpg)
 _(注：很基本的 RNN 模型，预测效果一般，仅作为学习使用！)_
 
+pr
+
 # 安装关联
 
 - PyTorch:
